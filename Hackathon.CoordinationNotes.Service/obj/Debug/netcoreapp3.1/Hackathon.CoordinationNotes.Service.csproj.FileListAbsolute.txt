@@ -26,3 +26,38 @@ C:\Users\lsilvey\source\repos\Hackathon.CoordinationNotes.Service\Hackathon.Coor
 C:\Users\lsilvey\source\repos\Hackathon.CoordinationNotes.Service\Hackathon.CoordinationNotes.Service\obj\Debug\netcoreapp3.1\Hackathon.CoordinationNotes.Service.dll
 C:\Users\lsilvey\source\repos\Hackathon.CoordinationNotes.Service\Hackathon.CoordinationNotes.Service\obj\Debug\netcoreapp3.1\Hackathon.CoordinationNotes.Service.pdb
 C:\Users\lsilvey\source\repos\Hackathon.CoordinationNotes.Service\Hackathon.CoordinationNotes.Service\obj\Debug\netcoreapp3.1\Hackathon.CoordinationNotes.Service.genruntimeconfig.cache
+C:\Development\Practice Development\Hackathon.CoordinationNotes.Service\Hackathon.CoordinationNotes.Service\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Development\Practice Development\Hackathon.CoordinationNotes.Service\Hackathon.CoordinationNotes.Service\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Development\Practice Development\Hackathon.CoordinationNotes.Service\Hackathon.CoordinationNotes.Service\bin\Debug\netcoreapp3.1\Hackathon.CoordinationNotes.Service.exe
+C:\Development\Practice Development\Hackathon.CoordinationNotes.Service\Hackathon.CoordinationNotes.Service\bin\Debug\netcoreapp3.1\Hackathon.CoordinationNotes.Service.deps.json
+C:\Development\Practice Development\Hackathon.CoordinationNotes.Service\Hackathon.CoordinationNotes.Service\bin\Debug\netcoreapp3.1\Hackathon.CoordinationNotes.Service.runtimeconfig.json
+C:\Development\Practice Development\Hackathon.CoordinationNotes.Service\Hackathon.CoordinationNotes.Service\bin\Debug\netcoreapp3.1\Hackathon.CoordinationNotes.Service.runtimeconfig.dev.json
+C:\Development\Practice Development\Hackathon.CoordinationNotes.Service\Hackathon.CoordinationNotes.Service\bin\Debug\netcoreapp3.1\Hackathon.CoordinationNotes.Service.dll
+C:\Development\Practice Development\Hackathon.CoordinationNotes.Service\Hackathon.CoordinationNotes.Service\bin\Debug\netcoreapp3.1\Hackathon.CoordinationNotes.Service.pdb
+C:\Development\Practice Development\Hackathon.CoordinationNotes.Service\Hackathon.CoordinationNotes.Service\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Development\Practice Development\Hackathon.CoordinationNotes.Service\Hackathon.CoordinationNotes.Service\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Development\Practice Development\Hackathon.CoordinationNotes.Service\Hackathon.CoordinationNotes.Service\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\Development\Practice Development\Hackathon.CoordinationNotes.Service\Hackathon.CoordinationNotes.Service\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\Development\Practice Development\Hackathon.CoordinationNotes.Service\Hackathon.CoordinationNotes.Service\bin\Debug\netcoreapp3.1\Azure.Storage.Files.Shares.dll
+C:\Development\Practice Development\Hackathon.CoordinationNotes.Service\Hackathon.CoordinationNotes.Service\bin\Debug\netcoreapp3.1\Azure.Storage.Queues.dll
+C:\Development\Practice Development\Hackathon.CoordinationNotes.Service\Hackathon.CoordinationNotes.Service\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Development\Practice Development\Hackathon.CoordinationNotes.Service\Hackathon.CoordinationNotes.Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Azure.dll
+C:\Development\Practice Development\Hackathon.CoordinationNotes.Service\Hackathon.CoordinationNotes.Service\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Development\Practice Development\Hackathon.CoordinationNotes.Service\Hackathon.CoordinationNotes.Service\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Development\Practice Development\Hackathon.CoordinationNotes.Service\Hackathon.CoordinationNotes.Service\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Development\Practice Development\Hackathon.CoordinationNotes.Service\Hackathon.CoordinationNotes.Service\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Development\Practice Development\Hackathon.CoordinationNotes.Service\Hackathon.CoordinationNotes.Service\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Development\Practice Development\Hackathon.CoordinationNotes.Service\Hackathon.CoordinationNotes.Service\obj\Debug\netcoreapp3.1\Hackathon.CoordinationNotes.Service.csproj.AssemblyReference.cache
+C:\Development\Practice Development\Hackathon.CoordinationNotes.Service\Hackathon.CoordinationNotes.Service\obj\Debug\netcoreapp3.1\Hackathon.CoordinationNotes.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Practice Development\Hackathon.CoordinationNotes.Service\Hackathon.CoordinationNotes.Service\obj\Debug\netcoreapp3.1\Hackathon.CoordinationNotes.Service.AssemblyInfoInputs.cache
+C:\Development\Practice Development\Hackathon.CoordinationNotes.Service\Hackathon.CoordinationNotes.Service\obj\Debug\netcoreapp3.1\Hackathon.CoordinationNotes.Service.AssemblyInfo.cs
+C:\Development\Practice Development\Hackathon.CoordinationNotes.Service\Hackathon.CoordinationNotes.Service\obj\Debug\netcoreapp3.1\Hackathon.CoordinationNotes.Service.csproj.CoreCompileInputs.cache
+C:\Development\Practice Development\Hackathon.CoordinationNotes.Service\Hackathon.CoordinationNotes.Service\obj\Debug\netcoreapp3.1\Hackathon.CoordinationNotes.Service.MvcApplicationPartsAssemblyInfo.cache
+C:\Development\Practice Development\Hackathon.CoordinationNotes.Service\Hackathon.CoordinationNotes.Service\obj\Debug\netcoreapp3.1\staticwebassets\Hackathon.CoordinationNotes.Service.StaticWebAssets.Manifest.cache
+C:\Development\Practice Development\Hackathon.CoordinationNotes.Service\Hackathon.CoordinationNotes.Service\obj\Debug\netcoreapp3.1\staticwebassets\Hackathon.CoordinationNotes.Service.StaticWebAssets.xml
+C:\Development\Practice Development\Hackathon.CoordinationNotes.Service\Hackathon.CoordinationNotes.Service\obj\Debug\netcoreapp3.1\scopedcss\bundle\Hackathon.CoordinationNotes.Service.styles.css
+C:\Development\Practice Development\Hackathon.CoordinationNotes.Service\Hackathon.CoordinationNotes.Service\obj\Debug\netcoreapp3.1\Hackathon.CoordinationNotes.Service.RazorTargetAssemblyInfo.cache
+C:\Development\Practice Development\Hackathon.CoordinationNotes.Service\Hackathon.CoordinationNotes.Service\obj\Debug\netcoreapp3.1\Hackathon.CoordinationNotes.Service.csproj.CopyComplete
+C:\Development\Practice Development\Hackathon.CoordinationNotes.Service\Hackathon.CoordinationNotes.Service\obj\Debug\netcoreapp3.1\Hackathon.CoordinationNotes.Service.dll
+C:\Development\Practice Development\Hackathon.CoordinationNotes.Service\Hackathon.CoordinationNotes.Service\obj\Debug\netcoreapp3.1\Hackathon.CoordinationNotes.Service.pdb
+C:\Development\Practice Development\Hackathon.CoordinationNotes.Service\Hackathon.CoordinationNotes.Service\obj\Debug\netcoreapp3.1\Hackathon.CoordinationNotes.Service.genruntimeconfig.cache

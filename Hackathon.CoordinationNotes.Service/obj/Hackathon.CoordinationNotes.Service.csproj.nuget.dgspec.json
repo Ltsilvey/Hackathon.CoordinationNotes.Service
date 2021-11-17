@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lsilvey\\source\\repos\\Hackathon.CoordinationNotes.Service\\Hackathon.CoordinationNotes.Service\\Hackathon.CoordinationNotes.Service.csproj": {}
+    "C:\\Development\\Practice Development\\Hackathon.CoordinationNotes.Service\\Hackathon.CoordinationNotes.Service\\Hackathon.CoordinationNotes.Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lsilvey\\source\\repos\\Hackathon.CoordinationNotes.Service\\Hackathon.CoordinationNotes.Service\\Hackathon.CoordinationNotes.Service.csproj": {
+    "C:\\Development\\Practice Development\\Hackathon.CoordinationNotes.Service\\Hackathon.CoordinationNotes.Service\\Hackathon.CoordinationNotes.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lsilvey\\source\\repos\\Hackathon.CoordinationNotes.Service\\Hackathon.CoordinationNotes.Service\\Hackathon.CoordinationNotes.Service.csproj",
+        "projectUniqueName": "C:\\Development\\Practice Development\\Hackathon.CoordinationNotes.Service\\Hackathon.CoordinationNotes.Service\\Hackathon.CoordinationNotes.Service.csproj",
         "projectName": "Hackathon.CoordinationNotes.Service",
-        "projectPath": "C:\\Users\\lsilvey\\source\\repos\\Hackathon.CoordinationNotes.Service\\Hackathon.CoordinationNotes.Service\\Hackathon.CoordinationNotes.Service.csproj",
+        "projectPath": "C:\\Development\\Practice Development\\Hackathon.CoordinationNotes.Service\\Hackathon.CoordinationNotes.Service\\Hackathon.CoordinationNotes.Service.csproj",
         "packagesPath": "C:\\Users\\lsilvey\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lsilvey\\source\\repos\\Hackathon.CoordinationNotes.Service\\Hackathon.CoordinationNotes.Service\\obj\\",
+        "outputPath": "C:\\Development\\Practice Development\\Hackathon.CoordinationNotes.Service\\Hackathon.CoordinationNotes.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -46,6 +46,18 @@
             "Azure.Storage.Blobs": {
               "target": "Package",
               "version": "[12.10.0, )"
+            },
+            "Azure.Storage.Files.Shares": {
+              "target": "Package",
+              "version": "[12.1.0, )"
+            },
+            "Azure.Storage.Queues": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "Microsoft.Extensions.Azure": {
+              "target": "Package",
+              "version": "[1.0.0, )"
             }
           },
           "imports": [

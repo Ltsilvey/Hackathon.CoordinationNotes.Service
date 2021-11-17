@@ -1,4 +1,4 @@
-﻿{
+{
   "$schema": "http://json.schemastore.org/launchsettings.json",
   "iisSettings": {
     "windowsAuthentication": false,
@@ -14,17 +14,19 @@
       "launchBrowser": true,
       "launchUrl": "CoordinationNotes",
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "AZURE_USERNAME": "lsilvey@hchb.com"
       }
     },
     "Hackathon.CoordinationNotes.Service": {
-        "commandName": "Project",
-        "launchBrowser": true,
-        "launchUrl": "CoordinationNotes",
-        "applicationUrl": "https://localhost:5001;http://localhost:5000",
-        "environmentVariables": {
-            "ASPNETCORE_ENVIRONMENT": "Development"
-        }
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "CoordinationNotes",
+      "applicationUrl": "https://localhost:5001;http://localhost:5000",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "AZURE_USERNAME": "lsilvey@hchb.com"
+      }
     }
   }
 }
